@@ -10,6 +10,11 @@
   font-size: 62.5%;
 }
 
+main {
+  display:flex;
+  padding-bottom: 80px;
+}
+
 body {
   background: #ededed;
   color: var(--grey);
